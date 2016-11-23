@@ -1,0 +1,52 @@
+{
+  "intents": [
+    {
+      "intent": "HowDoWeFeelIntent",
+      "slots": [
+        {
+          "name": "gender",
+          "type": "GENDERS"
+        },
+        {
+          "name": "feeling",
+          "type": "FEELINGS"
+        },
+        {
+          "name": "age",
+          "type": "AGES"
+        },
+        {
+          "name": "condition",
+          "type": "CONDITIONS"
+        },
+        {
+          "name": "country",
+          "type": "COUNTRIES"
+        },
+        {
+          "name": "state",
+          "type": "AMAZON.US_STATE"
+        },
+        {
+          "name": "city",
+          "type": "AMAZON.US_CITY"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+male
+female
+man
+woman
+men
+women
+boys
+girls
+guys
+gals
+dudes
+chicks

@@ -1,0 +1,35 @@
+HowDoWeFeelIntent how do people feel
+HowDoWeFeelIntent how do we feel
+HowDoWeFeelIntent what are people feeling
+HowDoWeFeelIntent how do {gender} feel
+HowDoWeFeelIntent what are {gender} feeling
+HowDoWeFeelIntent what are people feeling in {country}
+HowDoWeFeelIntent what are people feeling in {state}
+HowDoWeFeelIntent what are people feeling in {city}
+HowDoWeFeelIntent what are people feeling in {city} {state}
+HowDoWeFeelIntent what are people feeling in {city} {country}
+HowDoWeFeelIntent what are {gender} feeling in {country}
+HowDoWeFeelIntent what are {gender} feeling in {state}
+HowDoWeFeelIntent what are {gender} feeling in {city}
+HowDoWeFeelIntent what are {gender} feeling in {city} {state}
+HowDoWeFeelIntent what are {gender} feeling in {city} {country}
+HowDoWeFeelIntent how do people feel in {country}
+HowDoWeFeelIntent how do people feel in {state}
+HowDoWeFeelIntent how do people feel in {city}
+HowDoWeFeelIntent how do people in {country} feel
+HowDoWeFeelIntent how do people in {state} feel
+HowDoWeFeelIntent how do people in {city} feel
+HowDoWeFeelIntent how do people feel in {condition} weather
+HowDoWeFeelIntent how do people in {condition} weather feel
+HowDoWeFeelIntent how do {gender} feel in {country}
+HowDoWeFeelIntent how do {gender} feel in {state}
+HowDoWeFeelIntent how do {gender} feel in {city}
+HowDoWeFeelIntent how do {gender} in {country} feel 
+HowDoWeFeelIntent how do {gender} in {state} feel 
+HowDoWeFeelIntent how do {gender} in {city} feel 
+HowDoWeFeelIntent how do {gender} feel in {condition} weather
+HowDoWeFeelIntent how do {gender} in {condition} weather feel
+HowDoWeFeelIntent what do {feeling} people say
+HowDoWeFeelIntent what are {feeling} people saying
+HowDoWeFeelIntent what do {feeling} {gender} say
+HowDoWeFeelIntent what are {feeling} {gender} saying

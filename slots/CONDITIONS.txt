@@ -1,0 +1,4 @@
+sunny
+rainy
+snowy
+cloudy
