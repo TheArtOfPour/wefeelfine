@@ -1,6 +1,8 @@
 HowDoWeFeelIntent how do people feel
 HowDoWeFeelIntent how do we feel
 HowDoWeFeelIntent what are people feeling
+HowDoWeFeelIntent how do {age} people feel
+HowDoWeFeelIntent what are {age} people feeling
 HowDoWeFeelIntent how do {gender} feel
 HowDoWeFeelIntent what are {gender} feeling
 HowDoWeFeelIntent what are people feeling in {country}
@@ -33,3 +35,31 @@ HowDoWeFeelIntent what do {feeling} people say
 HowDoWeFeelIntent what are {feeling} people saying
 HowDoWeFeelIntent what do {feeling} {gender} say
 HowDoWeFeelIntent what are {feeling} {gender} saying
+HowDoWeFeelIntent how do {age} {gender} feel
+HowDoWeFeelIntent what are {age} {gender} feeling
+HowDoWeFeelIntent what are {age} people feeling in {country}
+HowDoWeFeelIntent what are {age} people feeling in {state}
+HowDoWeFeelIntent what are {age} people feeling in {city}
+HowDoWeFeelIntent what are {age} people feeling in {city} {state}
+HowDoWeFeelIntent what are {age} people feeling in {city} {country}
+HowDoWeFeelIntent what are {age} {gender} feeling in {country}
+HowDoWeFeelIntent what are {age} {gender} feeling in {state}
+HowDoWeFeelIntent what are {age} {gender} feeling in {city}
+HowDoWeFeelIntent what are {age} {gender} feeling in {city} {state}
+HowDoWeFeelIntent what are {age} {gender} feeling in {city} {country}
+HowDoWeFeelIntent how do {age} people feel in {country}
+HowDoWeFeelIntent how do {age} people feel in {state}
+HowDoWeFeelIntent how do {age} people feel in {city}
+HowDoWeFeelIntent how do {age} people in {country} feel
+HowDoWeFeelIntent how do {age} people in {state} feel
+HowDoWeFeelIntent how do {age} people in {city} feel
+HowDoWeFeelIntent how do {age} people feel in {condition} weather
+HowDoWeFeelIntent how do {age} people in {condition} weather feel
+HowDoWeFeelIntent how do {age} {gender} feel in {country}
+HowDoWeFeelIntent how do {age} {gender} feel in {state}
+HowDoWeFeelIntent how do {age} {gender} feel in {city}
+HowDoWeFeelIntent how do {age} {gender} in {country} feel 
+HowDoWeFeelIntent how do {age} {gender} in {state} feel 
+HowDoWeFeelIntent how do {age} {gender} in {city} feel 
+HowDoWeFeelIntent how do {age} {gender} feel in {condition} weather
+HowDoWeFeelIntent how do {age} {gender} in {condition} weather feel
